@@ -1,5 +1,5 @@
 #!/usr/bin/python
-'''create by VPP Hacker'''
+
 
 import smtplib
 from os import system
@@ -12,8 +12,8 @@ def main():
 | |_| | | | | | | (_| | | |  _  | (_| | (__|   <
  \____|_| |_| |_|\__,_|_|_|_| |_|\__,_|\___|_|\_\ """
    print '================================================='
-   print '               coded by VPP Hacker              '
-   print '           Subscribe Our YouTube Channel         '
+   print '               coded by JS Dhami                 '
+   print '                                                 '
    print '================================================='
 
 main()
